@@ -10880,6 +10880,11 @@ p.lead {
   outline-color: #d48a6e;
 }
 
+iframe{
+    width: 340px;
+    height: 260px;
+}
+
 @media (min-width: 992px) {
   #sideNav {
     padding-left: 0;
@@ -10959,7 +10964,7 @@ section.resume-section .resume-section-content {
 
 .frame-links{
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto;
   gap: 1rem;
 }
 
